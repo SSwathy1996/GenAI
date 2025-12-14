@@ -1,0 +1,9 @@
+{
+  "instance_url": "https://your-org.my.salesforce.com",
+  "access_token": "REDACTED_PLACEHOLDER",
+  "refresh_token": "REDACTED_PLACEHOLDER",
+  "client_id": "REDACTED_PLACEHOLDER",
+  "client_secret": "REDACTED_PLACEHOLDER",
+  "username": "your-user@example.com",
+  "note": "This is a placeholder template. Do not store real credentials in the repository."
+}
